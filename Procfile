@@ -1,1 +1,1 @@
-web: python3-v
+web: python3 -v
